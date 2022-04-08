@@ -1,0 +1,12 @@
+{
+  "name": "song-trivia",
+  "packageManager": "yarn@3.2.0",
+  "private": true,
+  "workspaces": [
+    "web",
+    "backend"
+  ],
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
